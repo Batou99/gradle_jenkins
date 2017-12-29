@@ -18,6 +18,5 @@ subprojects {
         properties {
             property "sonar.moduleKey", sonarModuleKey
         }
-}
-}
+    }
 }
